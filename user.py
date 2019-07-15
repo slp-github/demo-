@@ -9,4 +9,9 @@ def get_user_info(uid):
 
 def showa_me(uid):
     me= get_user_info(uid)
-    return me
+    return m
+
+
+
+def change_password():
+    pass
